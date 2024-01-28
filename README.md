@@ -27,7 +27,7 @@ This Python project implements a solver for cryptarithmetic puzzles using backtr
 ## File Formats
 
 ### Input File Format
-The `input.txt` file should contain three lines representing the puzzle:
+The `input.txt` file should contain three lines representing the puzzle:<br>
 SEND<br>
 MORE<br>
 MONEY<br>
@@ -35,7 +35,7 @@ MONEY<br>
 Each word represents a part of the cryptarithmetic equation (`WORD1 + WORD2 = RESULT`).
 
 ### Output File Format
-The `output.txt` file will contain the solution with digits replacing the letters:
+The `output.txt` file will contain the solution with digits replacing the letters:<br>
 9567<br>
 1085<br>
 10652<br>
